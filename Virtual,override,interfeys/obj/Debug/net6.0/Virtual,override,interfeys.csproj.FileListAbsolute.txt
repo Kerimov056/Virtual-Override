@@ -1,0 +1,15 @@
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\bin\Debug\net6.0\Virtual,override,interfeys.exe
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\bin\Debug\net6.0\Virtual,override,interfeys.deps.json
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\bin\Debug\net6.0\Virtual,override,interfeys.runtimeconfig.json
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\bin\Debug\net6.0\Virtual,override,interfeys.dll
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\bin\Debug\net6.0\Virtual,override,interfeys.pdb
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.csproj.AssemblyReference.cache
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.AssemblyInfoInputs.cache
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.AssemblyInfo.cs
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.csproj.CoreCompileInputs.cache
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.dll
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\refint\Virtual,override,interfeys.dll
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.pdb
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\Virtual,override,interfeys.genruntimeconfig.cache
+C:\Users\KINO\Desktop\StartWork\Virtual,override,interfeys\Virtual,override,interfeys\obj\Debug\net6.0\ref\Virtual,override,interfeys.dll
